@@ -21,7 +21,6 @@
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [API Endpoints](#-api-endpoints)
 - [Scripts Disponibles](#-scripts-disponibles)
-- [Capturas de Pantalla](#-capturas-de-pantalla)
 - [Solución de Problemas](#-solución-de-problemas)
 - [Contribución](#-contribución)
 - [Licencia](#-licencia)
@@ -450,21 +449,6 @@ stop_biolab.bat
 diagnostico.bat
 ```
 
----
-
-## 📸 Capturas de Pantalla
-
-### Dashboard Principal
-![Dashboard](docs/images/dashboard.png)
-
-### Gestión de Pacientes
-![Pacientes](docs/images/pacientes.png)
-
-### Resultados de Análisis
-![Resultados](docs/images/resultados.png)
-
----
-
 ## 🐛 Solución de Problemas
 
 ### Error: "No module named 'corsheaders'"
@@ -527,7 +511,7 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 ## 👨‍💻 Autores
 
-- **Juan José Cortés** - *Desarrollo inicial* - [Tu GitHub](https://github.com/2jcortesj2)
+- **Juan José Cortés** - *Desarrollo inicial* - [GitHub](https://github.com/2jcortesj2)
 
 ---
 
