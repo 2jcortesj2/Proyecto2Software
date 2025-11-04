@@ -511,7 +511,7 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 ## 👨‍💻 Autores
 
-- **Juan José Cortés** - *Desarrollo inicial* - [GitHub](https://github.com/2jcortesj2)
+- **Juan José Cortés** - *Desarrollo general* - [GitHub](https://github.com/2jcortesj2)
 - **Juliana Gonzalez** - *Frontend* - [GitHub](https://github.com/julianag18)
 - **Juan Esteban Artunduaga** - *Backend* - [GitHub](https://github.com/JuanEstebanAG)
 
