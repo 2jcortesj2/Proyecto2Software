@@ -523,13 +523,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ---
 
-## 📞 Soporte
-
-Si tienes preguntas o necesitas ayuda:
-
-- 📧 Email: jjose.cortes@udea.edu.com
----
-
 ## 🙏 Agradecimientos
 
 - Django Documentation
